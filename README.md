@@ -1,7 +1,6 @@
 ### <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7AF79A&size=30&width=500&lines=Hey+Hi+%F0%9F%91%8B!+I'm+Neha;I'm+a+Full+Stack+Developer" alt="Typing Animation">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhkYzkyNGV0azZyM3pncHByZWR3eHBxdGMwdmh2ajN4ZzJpbTV1eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="100" />
-
 </p>
 
 ---
@@ -71,7 +70,7 @@
 ### 🎯 Thanks for Visiting! 😊
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Neha-Waddi&color=blue&style=flat-square)
-  <br>
-  "Even a Pawn♟️ can become a QUEEN👑!! It's just a Matter of Time⌚"
+  <img src="https://komarev.com/ghpvc/?username=Neha-Waddi&color=blue&style=flat-square" alt="Profile Views" />
+  <br><br>
+  <b>Even a Pawn♟️ can become a QUEEN👑!! <br> It's just a Matter of Time⌚</b>
 </div>
