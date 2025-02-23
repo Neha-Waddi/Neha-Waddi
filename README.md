@@ -71,7 +71,7 @@
 ### 🎯 Thanks for Visiting! 😊
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Neha-Waddi/count.svg?"  />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Neha-Waddi&color=blue&style=flat-square)
   <br>
   "Even a Pawn♟️ can become a QUEEN👑!! It's just a Matter of Time⌚"
 </div>
