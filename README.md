@@ -63,6 +63,9 @@
   <a href="https://www.instagram.com/78_69_72_65/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  />
   </a>
+   <a href="https://leetcode.com/u/Neha_Waddi08/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </div>
 
 ---
