@@ -1,5 +1,7 @@
 ### <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=7AF79A&size=30&width=500&lines=Hey+Hi+%F0%9F%91%8B!+I'm+Neha;I'm+a+Full+Stack+Developer" alt="Typing Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhkYzkyNGV0azZyM3pncHByZWR3eHBxdGMwdmh2ajN4ZzJpbTV1eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="100" />
+
 </p>
 
 ---
@@ -72,4 +74,5 @@
   <img src="https://profile-counter.glitch.me/Neha-Waddi/count.svg?"  />
   <br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="150">
+  _"Even a **Pawn** can become **QUEEN**!! It's just a Matter of Time."_
 </div>
