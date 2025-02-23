@@ -73,5 +73,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Neha-Waddi/count.svg?"  />
   <br>
-  Even a **Pawn** can become **QUEEN**!! It's just a Matter of Time.
+_"Even a **Pawn**♟️ can become a **QUEEN**👑!! It's just a Matter of Time⌚"_
 </div>
