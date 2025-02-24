@@ -43,14 +43,6 @@
 
 ---
 
-### 🔥 GitHub Streaks
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-Waddi&theme=dracula&hide_border=false" />
-</div>
-
----
-
 ### 📬 Connect with Me
 
 <div align="center">
