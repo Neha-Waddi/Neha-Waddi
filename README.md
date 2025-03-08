@@ -67,5 +67,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neha-Waddi&color=blue&style=flat-square" alt="Profile Views" />
   <br><br>
-  <b>Even a Pawn♟️ can become a QUEEN👑!! <br> It's just a Matter of Time⌚</b>
+  <b>Even a Pawn♟️ can become a QUEEN👑!! <br> It's just a Matter of Time⌚ and Efforts </b>
 </div>
